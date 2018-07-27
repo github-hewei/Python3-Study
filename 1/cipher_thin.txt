@@ -1,0 +1,3 @@
+www.baidu.com|1234
+www.code.com|123456
+www.test.com|999

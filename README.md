@@ -1,5 +1,6 @@
-# Python3-Study
+# Python3_Study
 ```
 print("Hello World!")
+
 ```
-正在学习Python，把一些代码存放在这里
+Python学习ing 把一些代码存放在这里
